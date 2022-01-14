@@ -1,0 +1,15 @@
+﻿  TP3-VSION.cpp
+E:\VSION\TP3\TP3-VSION\TP3-VSION.cpp(96,21): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+E:\VSION\TP3\TP3-VSION\TP3-VSION.cpp(102,21): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+E:\VSION\TP3\TP3-VSION\TP3-VSION.cpp(103,23): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+E:\VSION\TP3\TP3-VSION\TP3-VSION.cpp(109,18): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+E:\VSION\TP3\TP3-VSION\TP3-VSION.cpp(110,19): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+E:\VSION\TP3\TP3-VSION\TP3-VSION.cpp(116,21): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+E:\VSION\TP3\TP3-VSION\TP3-VSION.cpp(145,21): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+E:\VSION\TP3\TP3-VSION\TP3-VSION.cpp(187,21): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+E:\VSION\TP3\TP3-VSION\TP3-VSION.cpp(208,38): warning C4244: '=' : conversion de 'float' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=uchar
+          ]
+  TP3-VSION.vcxproj -> E:\VSION\TP3\TP3-VSION\x64\Debug\TP3-VSION.exe
